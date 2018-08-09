@@ -2,6 +2,7 @@
 
 public class PlayerMovement : MonoBehaviour
 {
+<<<<<<< HEAD
 
 	void Move (float h, float v)
 	{
@@ -14,6 +15,8 @@ public class PlayerMovement : MonoBehaviour
 	 * ここから下は絶対に触らないでね！
 	 */
 
+=======
+>>>>>>> 43cf8f47e37947fce1bb1214168ab0249406dc70
 	public float speed = 6f;            // The speed that the player will move at.
 
 	Vector3 movement;                   // The vector to store the direction of the player's movement.
@@ -49,6 +52,21 @@ public class PlayerMovement : MonoBehaviour
 		Animating (h, v);
 	}
 
+<<<<<<< HEAD
+=======
+	void Move (float h, float v)
+	{
+		// Set the movement vector based on the axis input.
+		movement.Set (h, 0f, v);
+
+		// Normalise the movement vector and make it proportional to the speed per second.
+		movement = movement.normalized * speed * Time.deltaTime;
+
+		// Move the player to it's current position plus the movement.
+		playerRigidbody.MovePosition (transform.position + movement);
+	}
+
+>>>>>>> 43cf8f47e37947fce1bb1214168ab0249406dc70
 	void Turning ()
 	{
 		// Create a ray from the mouse cursor on screen in the direction of the camera.

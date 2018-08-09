@@ -3154,6 +3154,7 @@ Cmd: compileComputeKernel
   api=15 insize=3182 outsize=6785 ok=1
 Cmd: compileComputeKernel
   api=4 insize=1484 outsize=1533 ok=1
+<<<<<<< HEAD
 Cmd: compileComputeKernel
   api=15 insize=1386 outsize=5253 ok=1
 Cmd: compileComputeKernel
@@ -3169,3 +3170,5 @@ Cmd: compileComputeKernel
 Unhandled exception: Protocol error - failed to read correct magic number
 
 Quitting shader compiler process
+=======
+>>>>>>> 43cf8f47e37947fce1bb1214168ab0249406dc70

@@ -259,7 +259,11 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+<<<<<<< HEAD
     m_RotationOrder: 0
+=======
+    m_RotationOrder: 4
+>>>>>>> 43cf8f47e37947fce1bb1214168ab0249406dc70
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -283,7 +287,11 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+<<<<<<< HEAD
     m_RotationOrder: 0
+=======
+    m_RotationOrder: 4
+>>>>>>> 43cf8f47e37947fce1bb1214168ab0249406dc70
 --- !u!95 &9583922
 Animator:
   serializedVersion: 3

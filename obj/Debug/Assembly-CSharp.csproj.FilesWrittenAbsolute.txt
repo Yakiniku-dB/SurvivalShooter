@@ -56,5 +56,8 @@
 /Users/Riku/Documents/pga/Unity/SurvivalShooter/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
 /Users/Riku/Documents/pga/Unity/SurvivalShooter/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
 /Users/Riku/Documents/pga/Unity/SurvivalShooter/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
+<<<<<<< HEAD
 /Users/Riku/Documents/pga/Unity/SurvivalShooter/Temp/bin/Debug/ChannelPurchase.dll
 /Users/Riku/Documents/pga/Unity/SurvivalShooter/Temp/bin/Debug/UnityStore.dll
+=======
+>>>>>>> 43cf8f47e37947fce1bb1214168ab0249406dc70
